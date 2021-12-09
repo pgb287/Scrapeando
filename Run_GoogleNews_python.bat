@@ -1,0 +1,1 @@
+"C:\Users\pablo\AppData\Local\Programs\Python\Python39\python.exe" "D:\dev\webScraper\scrapeando\googleNews.py"
